@@ -1,0 +1,49 @@
+site_name: IAMAI Protocol
+site_description: Documentation for the IAMAI Protocol - Bridging AI & Web3
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: deep purple
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
+
+nav:
+  - Home: index.md
+  - Whitepaper:
+    - Introduction: whitepaper/sections/01-introduction.md
+    - Protocol Overview: whitepaper/sections/02-protocol-overview.md
+    - Token & Economic Model: whitepaper/sections/03-token-economic-model.md
+    - Autonomous Agent Framework: whitepaper/sections/04-autonomous-agent-framework.md
+    - Utility & Use Cases: whitepaper/sections/05-utility-and-use-cases.md
+    - Governance & DAO Layers: whitepaper/sections/06-governance-and-dao-layers.md
+    - Technical Architecture: whitepaper/sections/07-technical-architecture.md
+    - Roadmap & Milestones: whitepaper/sections/08-roadmap-and-milestones.md
+    - Risk & Mitigation: whitepaper/sections/09-risk-and-mitigation.md
+    - Conclusion: whitepaper/sections/10-conclusion.md
+    - Appendices: whitepaper/sections/appendices.md
+  - Technical:
+    - Architecture: technical/architecture.md
+    - Development Plan: technical/plan.md
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed
+  - attr_list
+  - md_in_html 

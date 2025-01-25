@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Build outputs
+dist/
+build/
+artifacts/
+cache/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+
+# Documentation build
+site/

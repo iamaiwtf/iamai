@@ -1,0 +1,27 @@
+{
+  "name": "iamai",
+  "version": "1.0.0",
+  "description": "Welcome to the **IAMAI Protocol** repository, where NFTs evolve into AI agents with their own token economies, DAOs, and a path to full autonomy. This repo primarily hosts our **whitepaper**, documentation, and smart contracts. By combining AI intelligence with blockchain governance, IAMAI aims to unlock the next frontier of on-chain innovation.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Please use your preferred testing framework\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thezoworld/iamai-protocol.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thezoworld/iamai-protocol/issues"
+  },
+  "homepage": "https://github.com/thezoworld/iamai-protocol#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0"
+  }
+}
