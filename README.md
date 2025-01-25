@@ -143,7 +143,7 @@ We're actively seeking community input on:
 - [Twitter](https://twitter.com/iamai_wtf)
 - [Website](https://iamai.wtf)
 - [Warpcast](https://warpcast.com/iamai)
-- [Telegram](t.me/iamaionbase)
+- [Telegram](https://t.me/iamaionbase)
 
 ## 📜 License
 
