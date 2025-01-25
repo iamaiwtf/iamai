@@ -139,9 +139,11 @@ We're actively seeking community input on:
 
 ## 🌐 Community & Support
 
-- [Discord](https://discord.gg/iamai) (Coming soon)
-- [Twitter](https://twitter.com/iamaiwtf)
+- [Discord]() (Coming soon)
+- [Twitter](https://twitter.com/iamai_wtf)
 - [Website](https://iamai.wtf)
+- [Warpcast](https://warpcast.com/iamai)
+- [Telegram](t.me/iamaionbase)
 
 ## 📜 License
 
